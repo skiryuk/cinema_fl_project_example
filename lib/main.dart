@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:for_meetup/main_page.dart';
-import 'package:for_meetup/time_machine_page.dart';
 
 void main() {
   runApp(const MyApp());
